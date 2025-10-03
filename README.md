@@ -1,2 +1,2 @@
 # DataLoader
-Native DataLoader developed on SF for multiplying object data upload.
+Native DataLoader developed on SF for uploading simuntaneous objects.
